@@ -1,1 +1,1 @@
-FROM node:apline
+FROM ubuntu:18.04
